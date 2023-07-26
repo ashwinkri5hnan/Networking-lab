@@ -1,0 +1,17 @@
+total 432
+-rw-rw-r-- 1 mca mca 37742 Mar 17 10:38 7b.2.png
+-rw-rw-r-- 1 mca mca     0 Mar 17 09:26 alphabetic.txt
+drwxrwxr-x 4 mca mca  4096 Mar 17 09:51 dir1
+-rw-rw-r-- 1 mca mca 24220 Mar 17 09:17 echo_1.png
+-rw-rw-r-- 1 mca mca 21616 Mar 17 09:45 exp_3.png
+-rw-rw-r-- 1 mca mca 45154 Mar 17 09:53 exp_4.png
+-rw-rw-r-- 1 mca mca 12924 Mar 17 09:59 exp_5.1.png
+-rw-rw-r-- 1 mca mca 12756 Mar 17 10:02 exp_5.2.png
+-rw-rw-r-- 1 mca mca 30249 Mar 17 10:05 exp_5.3.png
+-rw-rw-r-- 1 mca mca 18737 Mar 17 10:05 exp_6.png
+-rw-rw-r-- 1 mca mca 30004 Mar 17 10:40 exp_7b.1.png
+-rw-rw-r-- 1 mca mca 37833 Mar 17 10:41 exp_7b.3.png
+-rw-rw-r-- 1 mca mca 54504 Mar 17 10:48 exp_7b.4.png
+-r-------- 1 mca mca 77784 Mar 17 09:20 Linux commands programs-ORIGINAL-1.pdf
+-rw-rw-r-- 1 mca mca     0 Mar 17 10:54 lscommad.txt
+-rw-rw-r-- 1 mca mca     8 Mar 17 10:02 sample.txt

@@ -1,0 +1,8 @@
+mca      tty7         :0               Wed Jun  7 10:45    gone - no logout
+mca      tty7         :0               Wed Jun  7 09:04 - 10:45  (01:40)
+mca      tty7         :0               Fri Jun  2 14:21 - crash (3+22:46)
+
+wtmp begins Fri Jun  2 14:21:12 2023
+
+Failed login
+
